@@ -1,1 +1,4 @@
 # testRepoCreation
+majom
+kecske
+béka
