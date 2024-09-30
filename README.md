@@ -1,1 +1,4 @@
 # testRepoCreation
+alma
+banán
+málna
